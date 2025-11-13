@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 merge
 testi
+=======
+testi
+>>>>>>> f09b9df (Luotu merge.txt)
