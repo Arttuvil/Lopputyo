@@ -1,5 +1,7 @@
 Git-lopputyö: Terminaali
 
+Arttu Viljanen 2508940
+
 Käytin git komentoja
 
 -git init, add, commit, branch, checkout, merge, stash, revert, cherry-pick, tag , rebase, push, pull, reset, reflog
