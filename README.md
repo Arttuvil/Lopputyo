@@ -14,6 +14,8 @@ mitä opein
 -Opein ymmärtämään paremmin terminaalissa käytettäviä komentoja.
 -sain hyvän pohjan tulevaisuutta varten.
 
+lopputyön tekeminen oli aluksi hieman hankalaa koska niin paljon uutta, mutta katselemalla opetusvideoita ja lukemalla helpottui huomattavasti, kaikista hankaluuksista päästiin läpi onnnistuneesti
+
 kuvassa joitakin komentoja jota käytin.
 
 <img width="285" height="621" alt="image" src="https://github.com/user-attachments/assets/c2bb887a-39a9-489d-8a60-548aa6ae6cee" />
